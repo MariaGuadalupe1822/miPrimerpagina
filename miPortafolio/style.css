@@ -1,0 +1,38 @@
+nav, header {
+    color: black;
+}
+
+
+#navbarNav a{
+    color:black;
+}
+
+.icono {
+    font-size: 3rem; 
+    color: wheat;
+    background-color: rgb(0, 0, 0);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+}
+
+
+
+
+.subtitulo-habilidades {
+    margin-top: 20px;
+}
+
+header {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    height: 100vh;
+
+    background-image: url(https://scontent.fcvj2-1.fna.fbcdn.net/v/t39.30808-6/417797615_1808035282974485_4496397825312840304_n.jpg?stp=c0.31.206.206a_dst-jpg_p206x206&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFvCXsuNhh0ycKpNFVDGzUPPzQu1-6Yzio_NC7X7pjOKrEX9M70I9SobGRnIj1KNNDM9j7MJ6HoP1tJbELXKhZT&_nc_ohc=28e9mL-BLV0Q7kNvgEoX_jm&_nc_ht=scontent.fcvj2-1.fna&oh=00_AYBL0dN2xvovzDi0rcsCj9us_4Riut48vV82t3gK9uMCEA&oe=66481BC1);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed; /* Keep the image in place while scrolling */
+    filter: brightness(0.8); /* Adjust the brightness */
+}
+  
